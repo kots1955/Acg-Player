@@ -217,4 +217,4 @@ ACG Player is offered as a **complete free version** with all features and updat
 Ready to enhance your multimedia experience? Download ACG Player now and enjoy all the features without limitations!
 
 ---
-**Last updated:** 2026-09-18 22:59:36 UTC
+**Last updated:** 2026-09-19 01:06:04 UTC
